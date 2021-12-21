@@ -44,7 +44,7 @@ body{
     font-size: 30px;
 }
 .active{
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid #238636;
     border-width: 1%;
     border-radius: 20px;
     transition: all 0.3s ease-in-out 0s;
